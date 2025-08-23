@@ -25,7 +25,6 @@
 - [🚀 Getting Started](#-getting-started)
 - [🎯 Key Features](#-key-features)
 - [📱 User Experience](#-user-user-experience)
-- [📄 License](#-license)
 - [🌟 Special Thanks](#-special-thanks)
 
 ---
