@@ -83,7 +83,7 @@
 ## 📁 Project Structure
 
 ```
-AlhussienHazem-Task-8/
+dynamic-navigation-dropdown/
 ├── index.html          # Main website interface
 ├── script.js           # Dynamic navigation and content
 ├── style.css           # Additional styling (if any)
@@ -108,15 +108,10 @@ AlhussienHazem-Task-8/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/alhussienhazem/raccoon-city-portal.git
+   git clone https://github.com/alhussienhazem/dynamic-navigation-dropdown.git
    ```
 
-2. **Navigate to the project directory**
-   ```bash
-   cd AlhussienHazem-Task-8
-   ```
-
-3. **Open in your browser**
+2. **Open in your browser**
    - Open `index.html` in your web browser
    - Test the responsive navigation on different screen sizes
    - Click the Menu button to see the dropdown in action
